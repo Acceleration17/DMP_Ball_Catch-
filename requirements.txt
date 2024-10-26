@@ -1,0 +1,8 @@
+gym
+mujoco_py
+pyquaternion
+nlopt
+scipy
+torch
+matplotlib
+cython<3
